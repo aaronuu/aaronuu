@@ -6,5 +6,3 @@
 - 📫 How to reach me: please see bio
 - 😄 Motto: One for all, all for one
 - ⚡ Fun fact: Possibly an Asperger's syndrome individual :)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronuu)](https://github.com/aaronuu)
