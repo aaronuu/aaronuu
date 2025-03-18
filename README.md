@@ -5,4 +5,3 @@
 - 💬 Feel free to ask me about programming, LLM, and startup topics
 - 📫 How to reach me: please see bio
 - 😄 Motto: One for all, all for one
-- ⚡ Fun fact: Possibly an Asperger's syndrome individual :)
